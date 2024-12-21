@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Pre:wght@400..700&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&family=Spicy+Rice&family=Unlock&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@200..800&family=Edu+AU+VIC+WA+NT+Pre:wght@400..700&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&family=Spicy+Rice&family=Unlock&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@200..800&family=EB+Garamond:ital,wght@0,400..800;1,400..800&family=Edu+AU+VIC+WA+NT+Pre:wght@400..700&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&family=Spicy+Rice&family=Unlock&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Dosis:wght@200..800&family=EB+Garamond:ital,wght@0,400..800;1,400..800&family=Edu+AU+VIC+WA+NT+Pre:wght@400..700&family=Great+Vibes&family=Lobster&family=Playwrite+TZ+Guides&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&family=Spicy+Rice&family=Unlock&display=swap');
+/* div{
+    background-color:  #EDE9E7  ;
+    
+} */
+*{
+    margin:0;
+    padding: 0;
+}
+p{
+    align-items: center;
+    text-align: center;
+    text-decoration: underline;
+    text-transform: capitalize;
+    text-overflow: ellipsis;
+    text-shadow: #ccc;
+    text-indent: 0%;
+    font-size: 320%;
+    font-family: "Spicy Rice", serif;
+    font-weight: 40%;
+    font-style: normal;
+    color:  #780313 ;
+}
+/* img{
+    border-radius: 50%;
+} */
+.img2{
+    border-radius: 50%;
+    margin-left: 83%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+.img2:hover{
+    zoom: 0.8;
+    -ms-zoom-animation: initial;
+    rotate: right;
+    transition: all 0.3s ease;
+}
+/* *{
+    color: #BE1A32 ;
+} */
+text{
+    padding: 0.1%;
+    font-family: "EB Garamond", serif;
+  font-optical-sizing: auto;
+  font-weight: bold;
+  font-style: normal;
+  font-size: 140%;
+ padding: 0.3%;
+ 
+}
+.text{
+    color: #BE1A32;
+}
+.text1{
+    text-align: justify;
+}
+.text2{
+    color: #565F34 ;
+    text-align: center;
+    align-items: center;
+    margin-left: 22%;
+    font-family: "Lobster", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 170%;
+  /* border:4px solid transparent;
+  border-image:linear-gradient(to right,#FF7F50,#FFD700);
+  border-image-slice: 1; */
+}
+.text2:hover{
+    color:navy;
+    font-size: 170%;
+    transition: all 0.3s ease;
+    cursor: pointer;
+}
+.div{
+    background-image: url("https://media.tenor.com/3RDSUDifYtQAAAAM/snowing.gif");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height:100%;
+}
+footer{
+    background-color: grey;
+    color: white;
+   text-align: center;
+}
